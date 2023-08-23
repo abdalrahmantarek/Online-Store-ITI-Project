@@ -1,0 +1,139 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "SAMSUNG Galaxy S23 Ultra ",
+      "price": 1179,
+      "desc": "Smartphone, 512GB Storage, 200MP Camera, Night Mode, Long Battery Life, S Pen, US Version, 2023, Lavender",
+      "category": "phone",
+      "imgUrl": "s23.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Google Pixel 4a",
+      "price": 200,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "phone",
+      "imgUrl": "4a.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone 14 Pro Max",
+      "price": 1200,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "phone",
+      "imgUrl": "14pro.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S10E",
+      "price": 400,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "phone",
+      "imgUrl": "s10.jpg"
+    }
+  ],
+  "laptops": [
+    {
+      "id": 1,
+      "name": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6",
+      "price": 700,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "laptop",
+      "imgUrl": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Acer Aspire 5 A515-45-R74Z Slim Laptop",
+      "price": 800,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "laptop",
+      "imgUrl": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "HP Victus 15.6\" Gaming Laptop PC",
+      "price": 900,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "laptop",
+      "imgUrl": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "ASUS VivoBook 14 Slim",
+      "price": 800,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "laptop",
+      "imgUrl": "4.jpg"
+    }
+  ],
+  "monitors": [
+    {
+      "id": 1,
+      "name": "LG 24GQ50F-B Ultragear Gaming Monitor 24",
+      "price": 1200,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "monitor",
+      "imgUrl": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "KOORUI 24 Inch Computer Monitor Full HD 1920 x 1080p",
+      "price": 1400,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "monitor",
+      "imgUrl": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Z-Edge UG27 27-inch Curved Gaming Monitor",
+      "price": 1200,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "monitor",
+      "imgUrl": "3.jpg"
+    },
+
+    {
+      "id": 4,
+      "name": "Acer KC242Y Hbi 23.8\" Full HD (1920 x 1080) Zero-Frame Gaming Office Monitor",
+      "price": 1200,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "monitor",
+      "imgUrl": "4.jpg"
+    }
+  ],
+  "cameras": [
+    {
+      "id": 1,
+      "name": "Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens",
+      "price": 900,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "camera",
+      "imgUrl": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Panasonic LUMIX G95D 20.3 Megapixel Mirrorless Camera",
+      "price": 1200,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "camera",
+      "imgUrl": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "GoPro HERO11 Black - Waterproof Action Camera with 5.3K60 Ultra HD Video",
+      "price": 800,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "camera",
+      "imgUrl": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "4K Digital Camera for Photography and Video Autofocus Anti-Shake",
+      "price": 1200,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero,possimus nostrum!",
+      "category": "camera",
+      "imgUrl": "4.jpg"
+    }
+  ]
+}

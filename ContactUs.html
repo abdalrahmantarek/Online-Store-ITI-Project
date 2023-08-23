@@ -1,0 +1,53 @@
+<div class="ContactParent">
+    <div>
+    <h1>Contact Us</h1>
+        </div>
+    </div>
+<div class="container d-flex">
+    <img src="imgs/contact-us.png" alt="" srcset="">
+
+
+    <div class="ms-5 validation d-flex">
+
+    <table onload="Validation()">
+        <tr>
+            <td>
+            <label class="form-label" for="name">Name</label>
+            </td>
+            <td>
+                <input onblur="NameValidation()" class="form-control" required id="name" name="name" type="text">
+                <span class="text-danger">the name must start with 3 chars at least</span>
+            </td>
+            </tr>
+        <tr>
+                <td>
+                <label class="form-label" for="email">Email</label>
+            </td>
+            <td>
+                <input class="form-control" oninput="EmailValidation()" required id="email" name="email" type="text">
+                <span class="text-danger">please Enter a valid Email</span>
+            </td>
+        </tr>
+            <tr>
+                <td>
+                <label class="form-label"    for="password">Password </label>
+                
+            </td>
+            <td>
+                <input class="form-control" oninput="PasswordValidation()" required id="password" name="password" type="password">
+                <span class="text-danger">password must be 8 chars at least</span>
+            </td>
+            </tr>
+
+            <tr>
+                <td>
+                <td><button class="btn btn-outline-success" onclick="Validation()">Contact Us</button></td>
+                
+            </td>
+        </tr>
+        <tr>
+            
+        </tr>
+        </table>
+    </div>
+</div>
